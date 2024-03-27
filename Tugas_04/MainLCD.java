@@ -6,7 +6,7 @@ public class MainLCD {
         LCD lcd = new LCD();
         lcd.turnOff();
         lcd.turnOn();
-        lcd.freeze();
+        lcd.Freeze();
         lcd.setVolume(50);
         lcd.volumeUp();
         lcd.setBrightness(39);
