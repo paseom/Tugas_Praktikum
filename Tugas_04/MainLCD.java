@@ -1,4 +1,4 @@
-//package LCD;
+package LCD;
 
 public class MainLCD {
     public static void main(String[] args) {
