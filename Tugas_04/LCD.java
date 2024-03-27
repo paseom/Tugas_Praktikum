@@ -1,4 +1,4 @@
-//package LCD;
+package LCD;
 
 public class LCD {
     // mendeklarasikan variabel
