@@ -18,7 +18,7 @@ public class LCD {
     }
 
     // method untuk freeze
-    public void freeze() {
+    public void Freeze() {
         this.status = "Freeze";
     }
 
